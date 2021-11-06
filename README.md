@@ -1,16 +1,44 @@
-### Hi there 👋
+# Seja bem-vindo ao meu perfil github!
+### Ansioso para meu primeiro desafio em Front-end
+##
+<div>
+  <a href="https://github.com/issdomingoss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=issdomingoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issdomingoss&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+  
+<div>
+  <h1>Ferramentas Dev</h1>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</div>
+  
+  ##
 
-<!--
-**issdomingoss/issdomingoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>Front-end</h1>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+  <img src="https://img.icons8.com/office/48/000000/react.png"/>
+ 
+</div>
+  
+  ##
 
-Here are some ideas to get you started:
+<div>
+  <h1>Back-end (Estudando)</h1>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</div>
+  
+##
+<div> 
+  <a href = "mailto:iss.domingoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/issdomingos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
