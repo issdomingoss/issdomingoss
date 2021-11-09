@@ -19,7 +19,6 @@
 <div>
   <h1>Front-end</h1>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/50/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/>
