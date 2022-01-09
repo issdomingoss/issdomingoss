@@ -28,9 +28,12 @@
   ##
 
 <div>
-  <h1>Back-end (Estudando)</h1>
+  <h1>Back-end</h1>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>
 </div>
   
 ##
